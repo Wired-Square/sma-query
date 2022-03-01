@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sma_query_sw",
-    version="0.0.1",
+    version="0.0.3",
     author="Garth Berry",
     author_email="garth@wiredsquare.com",
     description="SMA Sunny Boy Inverter Query Tool",
